@@ -1,2 +1,21 @@
-node_modules
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
 yarn.lock
+
+# Webpack output
+dist
+
+# Editor
+.vscode
+.idea
+.DS_Store
+
+codeship.aes
